@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack AI Developer
 -----------------------
 
-I am an Electrical Engineer by trade and have been fascinated with coding since 2024. I am making the jump to pursue my passion in Software Development and is currently learning the trades with Gamuda AI Academy as a Full Stack AI Developer.
+I've practiced Electrical Engineering for 3 years majoring in Electrical Power System, Project Management and Procurement. I have developed a fascination in Software Development and am currently learning the trades as a Full Stack AI Developer focusing on development harnessing the use of AI features.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [zulaizatad@gmail.com](mailto:zulaizatad@gmail.com)
