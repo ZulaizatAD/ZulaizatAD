@@ -8,7 +8,7 @@ I've practiced Electrical Engineering for 3 years majoring in Electrical Power S
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [zulaizatad@gmail.com](mailto:zulaizatad@gmail.com)
-* 🧠  I'm learning React, Python, FastAPI, and AI integration via VertexAI (Google Gemini LLM)
+* 🧠  I'm learning React, Python, FastAPI, and AI integration via Google Gemini LLM, TensorFlow and VertexAI
 * ⚡  Kopivosian!!
 
 ### Skills
