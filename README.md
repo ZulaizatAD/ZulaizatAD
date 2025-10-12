@@ -3,7 +3,6 @@
   <h1>Hi there, I'm Zulaizat AD!</h1>
   <h3>A passionate Full Stack AI Developer bridging the gap between Operational Technology and cutting-edge web solutions.</h3>
 </div>
-===================================================================================================================================
 
 ---
 
