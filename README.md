@@ -115,6 +115,7 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 
 <a href="http://www.github.com/ZulaizatAD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZulaizatAD&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+### ✍️ Quote of The Day
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
