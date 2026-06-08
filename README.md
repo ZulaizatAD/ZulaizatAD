@@ -1,16 +1,14 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" alt="Waving Hand GIF">
   <h1>Hi there, I'm Zulaizat AD!</h1>
-  <h3>A passionate Full Stack AI Developer bridging the gap between Operational Technology and cutting-edge web solutions.</h3>
+  <h3>Full Stack Web Developer | OT, SCADA & Industrial Systems Background | Building Data-Driven Monitoring and Automation Solutions</h3>
 </div>
 
 ---
 
 ### About Me
 
-I'm a **Full Stack AI Developer** with a unique foundation in **Electrical Engineering**, specializing in **Electrical Power Systems, Project Management, and Procurement**. With 3 years of hands-on experience in critical industrial environments, I've gained invaluable insights into **SCADA systems (ENMCS, IMCS), substation operations, and industrial client management (PETRONAS, SESB)**.
-
-My fascination with software development grew from a desire to modernize and enhance monitoring and control systems within the industrial sector. I'm dedicated to leveraging full-stack web development and AI to create intelligent, data-driven applications that improve efficiency, safety, and decision-making in mission-critical infrastructure.
+I'm a **Full Stack Web Developer** with a background in Electrical Power Systems, SCADA, and industrial projects. My goal is to bridge Operational Technology (OT) and modern software development by building intelligent monitoring, automation, and decision-support systems. With 3 years of hands-on experience in critical industrial environments, I've gained invaluable insights into **SCADA systems (ENMCS, IMCS), substation operations, and industrial client management (PETRONAS, SESB)**.
 
 -    **Bridging OT & IT:** I strive to specialize in developing web-based monitoring systems for industrial applications, translating complex operational data into intuitive user interfaces.
 -    **Full Stack Expertise:** Proficient in crafting robust and scalable applications from frontend to backend, ensuring seamless user experiences and powerful data processing.
