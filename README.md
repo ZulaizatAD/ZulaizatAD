@@ -12,12 +12,12 @@ I'm a **Full Stack AI Developer** with a unique foundation in **Electrical Engin
 
 My fascination with software development grew from a desire to modernize and enhance monitoring and control systems within the industrial sector. I'm dedicated to leveraging full-stack web development and AI to create intelligent, data-driven applications that improve efficiency, safety, and decision-making in mission-critical infrastructure.
 
--   ⚡️ **Bridging OT & IT:** I strive to specialize in developing web-based monitoring systems for industrial applications, translating complex operational data into intuitive user interfaces.
--   💡 **Full Stack Expertise:** Proficient in crafting robust and scalable applications from frontend to backend, ensuring seamless user experiences and powerful data processing.
--   🧠 **AI Integration:** Actively learning and implementing AI/ML solutions (Google Gemini LLM, TensorFlow, VertexAI) to build smarter, more predictive, and insightful applications.
--   🚀 **Problem Solver:** Passionate about tackling complex challenges and delivering impactful solutions that drive operational excellence.
--   🌍 I'm based in Malaysia.
--   🗣️ Kopivosian! (Hello in Kadazan-Dusun)
+-    **Bridging OT & IT:** I strive to specialize in developing web-based monitoring systems for industrial applications, translating complex operational data into intuitive user interfaces.
+-    **Full Stack Expertise:** Proficient in crafting robust and scalable applications from frontend to backend, ensuring seamless user experiences and powerful data processing.
+-    **AI Integration:** Actively learning and implementing AI/ML solutions (Google Gemini LLM, TensorFlow, VertexAI) to build smarter, more predictive, and insightful applications.
+-    **Problem Solver:** Passionate about tackling complex challenges and delivering impactful solutions that drive operational excellence.
+-    I'm based in Malaysia.
+-    Kopivosian! (Hello in Kadazan-Dusun)
 
 ---
 
